@@ -93,7 +93,7 @@
     "lodash.tonumber": "^4.0.3",
     "prop-types": "^15.5.8",
     "react-popper": "^0.7.2",
-    "react-transition-group": "2.5.0"
+    "react-transition-group": "https://github.com/ryd0rz/react-transition-group.git#main"
   },
   "peerDependencies": {
     "react": "^0.14.9 || ^15.3.0 || ^16.0.0",
